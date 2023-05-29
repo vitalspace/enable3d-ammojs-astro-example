@@ -22,5 +22,5 @@ npm run dev
 npm run build
 
 # preview
-npm run view
+npm run preview
 ```
