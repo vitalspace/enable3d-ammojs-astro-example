@@ -1,7 +1,7 @@
 # enable3d-ammojs-astro-example
 Enable3d Ammojs astro Example
 
-![Enable3d Ammojs astro Example](https://github.com/vitalspace/enable3d-ammojs-astro-example/assets/29004070/1a7da213-ac55-4bbc-8d15-03887cfe644d)
+![Enable3d Ammojs astro Example](https://github.com/vitalspace/enable3d-ammojs-astro-example/assets/29004070/3181c007-8ad8-4b11-8eeb-d3223f8744c0)
 
 ## Install & Run
 
