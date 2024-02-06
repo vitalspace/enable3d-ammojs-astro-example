@@ -11,10 +11,10 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "astro": "^2.4.1",
-    "gh-pages": "^5.0.0"
+    "astro": "^4.3.3",
+    "gh-pages": "^6.1.1"
   },
   "devDependencies": {
-    "enable3d": "^0.25.3"
+    "enable3d": "^0.25.4"
   }
 }
